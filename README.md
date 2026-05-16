@@ -96,8 +96,8 @@ Este laboratório provisiona automaticamente um ambiente red team completo com:
 
 ```bash
 # 1. Clonar este repositório
-git clone https://github.com/seu-usuario/redteam-lab.git
-cd redteam-lab
+git clone https://github.com/sucloudflare/laboratorio-redteam.git
+cd laboratorio-redteam
 
 # 2. Dar permissão e executar
 chmod +x setup.sh
